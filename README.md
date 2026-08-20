@@ -661,9 +661,8 @@ Please review the repository's licensing terms and dataset licenses before redis
 # 👩‍💻 Authors
 
 **Astha Shrivastava**
-**Komal Ojha**
 
-GitHub: [@komal-alis](https://github.com/komal-alis)
+GitHub: [@astha-alis](https://github.com/astha-alis/TruthLens-AI-Powered-Fake-News-Detection)
 
 ---
 
