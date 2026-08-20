@@ -303,7 +303,7 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/komal-alis/Fake-News-Detection-Using-Deep-Learning.git
+https://github.com/astha-alis/TruthLens-AI-Powered-Fake-News-Detection
 ```
 
 Navigate into the project:
