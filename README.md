@@ -267,24 +267,24 @@ The interface also provides a prediction score/confidence estimate to help users
 ```text
 Fake-News-Detection-Using-Deep-Learning/
 │
-├── app_streamlit.py       # Streamlit application
-├── model.h5               # Trained deep-learning model
-├── vectorizer.pkl         # Fitted TF-IDF vectorizer
-├── requirements.txt       # Python dependencies
 ├── .gitignore             # Git ignore rules
-└── README.md              # Project documentation
+├── README.md              # Project documentation
+├── app_streamlit.py       # Streamlit web application
+├── model.h5               # Trained deep-learning model
+├── requirements.txt       # Python dependencies
+└── vectorizer.pkl         # Fitted TF-IDF vectorizer
 ```
 
 ### File Responsibilities
 
 | File               | Purpose                                         |
 | ------------------ | ----------------------------------------------- |
-| `app_streamlit.py` | Runs the interactive prediction application     |
-| `model.h5`         | Stores trained neural-network weights/model     |
-| `vectorizer.pkl`   | Stores the fitted TF-IDF vectorizer             |
-| `requirements.txt` | Defines required Python packages                |
 | `.gitignore`       | Prevents unnecessary files from being committed |
 | `README.md`        | Project documentation                           |
+| `app_streamlit.py` | Runs the interactive Streamlit application      |
+| `model.h5`         | Stores the trained deep-learning model          |
+| `requirements.txt` | Defines required Python packages                |
+| `vectorizer.pkl`   | Stores the fitted TF-IDF vectorizer             |
 
 ---
 
